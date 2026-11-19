@@ -3,7 +3,7 @@ def add(a, b):
 
 
 def subtract(a, b):
-    return b - a
+    return a - b
 
 
 def divide(a, b):
